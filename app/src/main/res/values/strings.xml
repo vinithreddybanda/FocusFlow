@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FocusFlow</string>
+    <string name="graph">Graph</string>
+    <string name="block">Block</string>
+    <string name="home">Home</string>
+    <string name="time">Time</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="start">Start</string>
+    <string name="_00_00_00">00:00:00</string>
+</resources>
